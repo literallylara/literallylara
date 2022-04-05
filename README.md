@@ -12,7 +12,7 @@ Have a look at my **[CV](https://www.dropbox.com/s/sioc60p2sazdftx/CV%20-%20Lara
  
 ## 3D Models (CC0)
 
-[<img src="https://i.imgur.com/VhVYjfV.jpg" width="128" />](https://sketchfab.com/3d-models/cc0-generic-soldering-station-87789d4f4c5b43069a5dd47819f4b4a8) [<img src="https://i.imgur.com/g4gVjK4.jpg" width="128" />](https://sketchfab.com/3d-models/cc0-safety-banana-plug-cable-with-test-probe-f23a52f1c30544b5a2ff6d7949e85bbd) [<img src="https://i.imgur.com/3o1KxKi.jpg" width="128" />](https://sketchfab.com/3d-models/cc0-set-of-electronic-components-f4cb777b4ea3490587008e24b61bcf75)
+[<img src="https://i.imgur.com/3o1KxKi.jpg" width="128" />](https://sketchfab.com/3d-models/cc0-set-of-electronic-components-f4cb777b4ea3490587008e24b61bcf75) [<img src="https://i.imgur.com/VhVYjfV.jpg" width="128" />](https://sketchfab.com/3d-models/cc0-generic-soldering-station-87789d4f4c5b43069a5dd47819f4b4a8) [<img src="https://i.imgur.com/g4gVjK4.jpg" width="128" />](https://sketchfab.com/3d-models/cc0-safety-banana-plug-cable-with-test-probe-f23a52f1c30544b5a2ff6d7949e85bbd)
 
 ## Profiles
 
