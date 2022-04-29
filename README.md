@@ -25,4 +25,4 @@ Have a look at my **[CV](https://www.dropbox.com/s/sioc60p2sazdftx/CV%20-%20Lara
 - [Shadertoy](https://shadertoy.com/user/lara)
 - [Sketchfab](https://sketchfab.com/literallylara)
 - [Twitter](https://twitter.com/literallylara)
-- <a rel="me" href="https://mastodon.social/@laralubsch">Mastodon</a>
+- [Mastodon](https://mastodon.social/@laralubsch)
