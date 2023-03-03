@@ -24,5 +24,4 @@ Have a look at my **[CV](https://www.dropbox.com/s/5ebkqiktr9pkyoe/CV%20-%20Lara
 - [Github](https://github.com/literallylara)
 - [Shadertoy](https://shadertoy.com/user/lara)
 - [Sketchfab](https://sketchfab.com/literallylara)
-- [Twitter](https://twitter.com/literallylara)
 - [Mastodon](https://mastodon.social/@laralubsch)
