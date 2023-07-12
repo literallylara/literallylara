@@ -19,8 +19,8 @@ Have a look at my **[CV](https://www.dropbox.com/s/5ebkqiktr9pkyoe/CV%20-%20Lara
 
 [<img src="https://i.imgur.com/VDQ6D0r.jpg" width="128" />](https://www.printables.com/model/469500-anbernic-rg353vs-grip) [<img src="https://i.imgur.com/IPeGDvv.jpg" width="128" />](https://www.printables.com/model/461556-waterrower-handlegrip)
 
-## Profiles
+## Other Profiles
 
-- [Github](https://github.com/literallylara)
 - [Shadertoy](https://shadertoy.com/user/lara)
 - [Sketchfab](https://sketchfab.com/literallylara)
+- [Printables](https://www.printables.com/@laralubsch_301441)
