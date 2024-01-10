@@ -10,6 +10,10 @@ Have a look at my **[CV](https://www.dropbox.com/s/5ebkqiktr9pkyoe/CV%20-%20Lara
 ## JS1K Competition Entries
 
 [<img src="https://i.imgur.com/CD6dmu5.jpg" width="128" />](https://imgur.com/k7AIUKc) [<img src="https://i.imgur.com/CRC067h.jpg" width="128" />](https://imgur.com/a/WDAECFS) [<img src="https://i.imgur.com/GKEzqpq.jpg" width="128" />](https://imgur.com/VM0UDh8)
+
+## Client Work
+
+[<img src="https://i.imgur.com/ZHa26BM.jpg" width="128" />](https://imgur.com/ZHa26BM) <img src="https://i.imgur.com/jFa4BEP.jpg" width="128" /> <img src="https://i.imgur.com/jFa4BEP.jpg" width="128" /> <img src="https://i.imgur.com/jFa4BEP.jpg" width="128" />
  
 ## Polygon Models
 
