@@ -1,6 +1,6 @@
 **Nice to meet you! 👋**
 
-I'm Lara - a self-employed **full stack developer** from Germany with over **10 years of experience**.  
+I'm Lara - a self-employed **full stack developer** from Germany with over **15 years of experience**.  
 Have a look at my **[CV](https://www.dropbox.com/s/5ebkqiktr9pkyoe/CV%20-%20Lara%20Schuett.pdf?dl=1)** for more details or keep scrolling to view some of my work. 
 
 ## Shaders
