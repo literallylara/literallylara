@@ -23,9 +23,3 @@ I'm Lara - a self-employed **full stack developer** from Germany with over **15 
 [<img src="https://i.imgur.com/VDQ6D0r.jpg" width="128" />](https://www.printables.com/model/469500-anbernic-rg353vs-grip)
 [<img src="https://i.imgur.com/IPeGDvv.jpg" width="128" />](https://www.printables.com/model/461556-waterrower-handlegrip)
 [<img src="https://media.printables.com/media/prints/492304/images/4013520_00a7fea0-f6c7-4103-b0bb-2466d4b05dd1/thumbs/inside/640x480/png/screenshot-2023-05-28-at-130457.webp" width="128" />](https://www.printables.com/model/492304-switch-lite-mount-for-hori-drum)
-
-## Other Profiles
-
-- [Shadertoy](https://shadertoy.com/user/lara)
-- [Sketchfab](https://sketchfab.com/literallylara)
-- [Printables](https://www.printables.com/@laralubsch_301441)
