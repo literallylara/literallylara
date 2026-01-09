@@ -1,6 +1,21 @@
-**Nice to meet you! 👋**
+Hello 👋, I am a self-taught software engineer from Germany who has been fascinated with IT since 2008.
 
-I'm Lara - a self-employed **full stack developer** from Germany with over **15 years of experience**.
+I like:
+- 🔓 FOSS
+- 🌐 Decentralised platforms
+- 🔰 Digital sovereignty
+- 🪩 Demoscene
+- ⚡ Microelectronics
+- 🛠️ DIY
+- 🌱 Permaculture
+
+I dislike:
+- 🍅 Tomatoes
+- 🙅‍♀️ Undefined behaviour
+- 💢 Cynicism
+- ✨ AI Slop & Vibe Coding
+
+You can view some of my work below.
 
 ## Shaders
 
