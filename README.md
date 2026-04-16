@@ -38,4 +38,4 @@ You can view some of my work below.
 [<img src="https://i.imgur.com/VDQ6D0r.jpg" width="128" />](https://www.printables.com/model/469500-anbernic-rg353vs-grip)
 [<img src="https://i.imgur.com/IPeGDvv.jpg" width="128" />](https://www.printables.com/model/461556-waterrower-handlegrip)
 [<img src="https://media.printables.com/media/prints/492304/images/4013520_00a7fea0-f6c7-4103-b0bb-2466d4b05dd1/thumbs/inside/640x480/png/screenshot-2023-05-28-at-130457.webp" width="128" />](https://www.printables.com/model/492304-switch-lite-mount-for-hori-drum)
-[<img src="https://media.printables.com/media/prints/b575092d-499f-4ab8-a78c-e6158f1f63aa/images/12605689_051ed579-903d-4dfd-9481-04bdcd546ece_77c8066c-1b43-493d-815c-7378942bb0cc/thumbs/inside/1600x1200/png/sensor-cube-model-with-label.webp" width="128" />](https://www.printables.com/model/1529426-sensor-cube)
+[<img src="https://media.printables.com/media/prints/678ae4a4-1d07-4a51-821e-729c9746fc97/images/12688519_ed6ee753-3f20-401d-920f-1c0c738dd0ca_66dddb2b-6806-4ac3-9aff-ff7b82bf32c6/thumbs/inside/1920x1440/png/sensor-cube-model-with-label.webp" width="128" />](https://www.printables.com/model/1529426-sensor-cube)
