@@ -17,10 +17,10 @@ I dislike:
 
 ## Socials
 
-- <a rel="me" target="_blank" href="https://shadertoy.com/user/lara"><img alt="icon" src="./assets/favicons/shadertoy.com.ico" width="12" /> Shadertoy</a>
-- <a rel="me" target="_blank" href="https://mastodon.social/@literallylara"><img alt="icon" src="./assets/favicons/mastodon.social.png" width="12" /> Mastodon</a>
-- <a rel="me" target="_blank" href="https://www.printables.com/@literallylara"><img alt="icon" src="./assets/favicons/printables.com.ico" width="12" /> Printables</a>
-- <a rel="me" target="_blank" href="https://sketchfab.com/literallylara"><img alt="icon" src="./assets/favicons/sketchfab.com.png" width="12" /> Sketchfab</a>
+- <img alt="icon" src="./assets/favicons/shadertoy.com.ico" width="12" /> <a rel="me" target="_blank" href="https://shadertoy.com/user/lara">Shadertoy</a>
+- <img alt="icon" src="./assets/favicons/mastodon.social.png" width="12" /> <a rel="me" target="_blank" href="https://mastodon.social/@literallylara">Mastodon</a>
+- <img alt="icon" src="./assets/favicons/printables.com.ico" width="12" /> <a rel="me" target="_blank" href="https://www.printables.com/@literallylara">Printables</a>
+- <img alt="icon" src="./assets/favicons/sketchfab.com.png" width="12" /> <a rel="me" target="_blank" href="https://sketchfab.com/literallylara">Sketchfab</a>
 
 ## Shaders
 
