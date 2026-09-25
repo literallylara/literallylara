@@ -1,6 +1,7 @@
 Hello 👋, I am a self-taught software engineer from Germany who has been fascinated with IT since 2008.
 
 I like:
+
 - 🔓 FOSS
 - 🌐 Decentralised platforms
 - 🔰 Digital sovereignty
@@ -10,17 +11,23 @@ I like:
 - 🌱 Permaculture
 
 I dislike:
+
 - 🍅 Tomatoes
 - 🙅‍♀️ Undefined behaviour
 - 💢 Cynicism
 - ✨ AI Slop & Vibe Coding
 
+## Projects
+
+- <img alt="icon" src="https://codeberg.org/repo-avatars/9c5d983b328528188bc740b01306bfece4af7903da071971d137adda70dd8331" width="12" /> <a href="https://codeberg.org/literallylara/ShadeVk">ShadeVk</a> (2026)
+- <img alt="icon" src="https://codeberg.org/repo-avatars/1592e7e0b6823ccb5bb619234180df416700ad586a719f476800d775d5bd1508" width="12" /> <a href="https://codeberg.org/literallylara/SensorCube">SensorCube</a> (2025)
+
 ## Socials
 
-- <img alt="icon" src="./assets/favicons/shadertoy.com.ico" width="12" /> <a rel="me" target="_blank" href="https://shadertoy.com/user/lara">Shadertoy</a>
-- <img alt="icon" src="./assets/favicons/mastodon.social.png" width="12" /> <a rel="me" target="_blank" href="https://mastodon.social/@literallylara">Mastodon</a>
-- <img alt="icon" src="./assets/favicons/printables.com.ico" width="12" /> <a rel="me" target="_blank" href="https://www.printables.com/@literallylara">Printables</a>
-- <img alt="icon" src="./assets/favicons/sketchfab.com.png" width="12" /> <a rel="me" target="_blank" href="https://sketchfab.com/literallylara">Sketchfab</a>
+- <img alt="icon" src="./assets/favicons/shadertoy.com.ico" width="12" /> <a rel="me" href="https://shadertoy.com/user/lara">Shadertoy</a>
+- <img alt="icon" src="./assets/favicons/mastodon.social.png" width="12" /> <a rel="me" href="https://mastodon.social/@literallylara">Mastodon</a>
+- <img alt="icon" src="./assets/favicons/printables.com.ico" width="12" /> <a rel="me" href="https://www.printables.com/@literallylara">Printables</a>
+- <img alt="icon" src="./assets/favicons/sketchfab.com.png" width="12" /> <a rel="me" href="https://sketchfab.com/literallylara">Sketchfab</a>
 
 ## Shaders
 
